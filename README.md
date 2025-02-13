@@ -1,4 +1,6 @@
-## Hi there 👋
+## Aleksandar
+
+Working on uni repository
 
 <!--
 **AdamS839/AdamS839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
